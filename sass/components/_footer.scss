@@ -2,6 +2,10 @@
   background-color: #2f303a;
   padding-top: 60px;
   padding-bottom: 60px;
+   .logo {
+  display: inline-block;
+  margin-bottom: 20px;
+}
 }
 .footer-box {
   display: flex;
@@ -10,10 +14,7 @@
 .footer-address {
   margin-right: 70px;
 }
-.footer .logo {
-  display: inline-block;
-  margin-bottom: 20px;
-}
+
 .footer-logo {
   color: $accent-second-color;
 }
